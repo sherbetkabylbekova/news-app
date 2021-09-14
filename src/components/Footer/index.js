@@ -30,12 +30,12 @@ const Footer = () => {
                    </div>
                </div>
                   <ul className="footer-nav d-flex align-items-center justify-content-between">
-                      <li className="me-4"><a href="#">О ПРОЕКТЕ</a></li>
-                      <li className="me-4"><a href="#">КОНТАКТЫ</a></li>
-                      <li className="me-4"><a href="#">ВАКАНСИИ</a></li>
-                      <li className="me-4"><a href="#">РЕКЛАМА</a></li>
-                      <li className="me-4"><a href="#">ПРАВИЛА МОДЕРАЦИИ</a></li>
-                      <li className="me-4"><a href="#">ДЛЯ ПРАВОБЛАДАТЕЛЯ</a></li>
+                      <li className="me-4">О ПРОЕКТЕ</li>
+                      <li className="me-4">КОНТАКТЫ</li>
+                      <li className="me-4">ВАКАНСИИ</li>
+                      <li className="me-4">РЕКЛАМА</li>
+                      <li className="me-4">ПРАВИЛА МОДЕРАЦИИ</li>
+                      <li className="me-4">ДЛЯ ПРАВОБЛАДАТЕЛЯ</li>
                   </ul>
            </div>
        </div>

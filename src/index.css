@@ -24,9 +24,9 @@ a {
   color: #ffffff;
   cursor: pointer;
 }
-ul {
+ul li {
   list-style: none;
-  color: black;
+  color: white;
 }
 Link{
   text-decoration: none;

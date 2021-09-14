@@ -19,11 +19,9 @@ const Registr = () => {
                         Придумайте электронную почту
                     </Form.Text>
                 </Form.Group>
-
                 <Form.Group className="mb-3" controlId="formBasicPassword">
                     <Form.Label>Пароль</Form.Label>
                     <Form.Control type="password" placeholder="пароль" />
-
                     <Form.Text className="text-muted">
                         Придумайте пароль
                     </Form.Text>
