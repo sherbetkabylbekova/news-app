@@ -1,5 +1,5 @@
 import React from 'react';
-import {FloatingLabel, FormControl,Form,Button} from "react-bootstrap";
+import {FloatingLabel,Form,Button} from "react-bootstrap";
 
 const Comment = () => {
     return (
