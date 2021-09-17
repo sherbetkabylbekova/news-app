@@ -38,7 +38,9 @@ const Header = () => {
                         <li className="me-4"><NavLink to="/news">НОВОСТИ</NavLink></li>
                         <li className="me-4"><NavLink to="/login">ВОЙТИ</NavLink></li>
                         <li className="me-4"><NavLink to="/registr">ЗАРЕГИСТРИРОВАТЬСЯ</NavLink></li>
-                        <button type="button" className="btn btn-info my-3" onClick={() => setIsOpen(true)}>Связаться с
+                        <li className="me-4"><NavLink to="/table">ЗАЯВКИ</NavLink></li>
+                        <li className="me-4"><NavLink to="/students">СТУДЕНТЫ</NavLink></li>
+                        <button type="button" className="btn btn-info my-3 " onClick={() => setIsOpen(true)}>Связаться с
                             нами
                         </button>
                     </ul>
